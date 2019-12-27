@@ -1,1 +1,5 @@
 sdassdaaadss
+<<<<<<< HEAD
+=======
+gfgfggffggfggf
+>>>>>>> master
